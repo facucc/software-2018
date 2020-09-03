@@ -50,7 +50,7 @@ typedef struct Nombre_struct{
 
 Usando padding:
 
-![struct1](/home/facundo/Escritorio/Imagenes/imagen.png)
+![struct1](https://github.com/ICOMP-UNC/laboratorio-2-facucc/blob/lab2-img/struct1.png)
 
 4Byte*5=20Bytes
 
@@ -68,7 +68,7 @@ Usando padding:
 
 Usando padding:
 
-![struct2](/home/facundo/Escritorio/Imagenes/struct2.png)
+![struct2](https://github.com/ICOMP-UNC/laboratorio-2-facucc/blob/lab2-img/struct2.png)
 
 4Byte*4=16Bytes
 
@@ -88,7 +88,7 @@ Usando padding:
         
 Usando padding:
 
-![struct3](https://github.com/facucc/software-2018/blob/img/struct3.png)
+![struct3](https://github.com/ICOMP-UNC/laboratorio-2-facucc/blob/lab2-img/struct3.png)
 
 4Byte*6=24Bytes
 
@@ -106,7 +106,7 @@ Usando padding:
          
 Usando packing
 
-![struct3](/home/facundo/Escritorio/Imagenes/struct4.png)
+![struct3](https://github.com/ICOMP-UNC/laboratorio-2-facucc/blob/lab2-img/struct4.png)
 
 14 Bytes
 
