@@ -88,7 +88,7 @@ Usando padding:
         
 Usando padding:
 
-![struct3](/home/facundo/Escritorio/Imagenes/struct3.png)
+![struct3](https://github.com/facucc/software-2018/blob/img/struct3.png)
 
 4Byte*6=24Bytes
 
